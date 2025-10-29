@@ -1,0 +1,104 @@
+{
+    "expenses": [
+        {
+            "id": "2db212fe-2ad5-4dda-956c-3c828e88dde3",
+            "recurringID": "",
+            "name": "hotel",
+            "tags": [],
+            "category": "Food",
+            "amount": 99,
+            "currency": "",
+            "date": "2025-08-29T05:30:07Z"
+        },
+        {
+            "id": "0cfeb154-0e90-4aa2-ae22-5697b6a1832e",
+            "recurringID": "",
+            "name": "waste",
+            "tags": [],
+            "category": "Shopping",
+            "amount": 55,
+            "currency": "",
+            "date": "2025-09-10T07:56:24Z"
+        },
+        {
+            "id": "dd45e6b8-48a1-4ced-9e1e-930845e28d23",
+            "recurringID": "",
+            "name": "saravana",
+            "tags": [],
+            "category": "Groceries",
+            "amount": 50,
+            "currency": "",
+            "date": "2025-09-10T09:00:55Z"
+        },
+        {
+            "id": "8a309461-c6a8-466e-89b3-ba050ae95f14",
+            "recurringID": "",
+            "name": "SARAVANABHAVAN",
+            "tags": [],
+            "category": "Food",
+            "amount": 2000,
+            "currency": "",
+            "date": "2025-09-11T13:58:44Z"
+        },
+        {
+            "id": "7f91a1d3-1802-4230-b992-76ecaf34283f",
+            "recurringID": "66bdf54c-52ac-4bc8-b8d1-deda3cc5df31",
+            "name": "shankavi",
+            "tags": [],
+            "category": "Healthcare",
+            "amount": 500,
+            "currency": "",
+            "date": "2025-09-12T14:00:32Z"
+        },
+        {
+            "id": "6fc7fc28-0989-442a-8b5e-6c042a36e277",
+            "recurringID": "66bdf54c-52ac-4bc8-b8d1-deda3cc5df31",
+            "name": "shankavi",
+            "tags": [],
+            "category": "Healthcare",
+            "amount": 500,
+            "currency": "",
+            "date": "2025-09-19T14:00:32Z"
+        },
+        {
+            "id": "67c31691-735c-424e-b77a-d53c427eeea1",
+            "recurringID": "66bdf54c-52ac-4bc8-b8d1-deda3cc5df31",
+            "name": "shankavi",
+            "tags": [],
+            "category": "Healthcare",
+            "amount": 500,
+            "currency": "",
+            "date": "2025-09-26T14:00:32Z"
+        },
+        {
+            "id": "f98d4eed-851c-49c9-9f00-0f7f729fcf20",
+            "recurringID": "66bdf54c-52ac-4bc8-b8d1-deda3cc5df31",
+            "name": "shankavi",
+            "tags": [],
+            "category": "Healthcare",
+            "amount": 500,
+            "currency": "",
+            "date": "2025-10-03T14:00:32Z"
+        },
+        {
+            "id": "953bc552-6c53-4874-8c7c-f3a2bde884a2",
+            "recurringID": "",
+            "name": "A2B",
+            "tags": [],
+            "category": "Food",
+            "amount": -200,
+            "currency": "",
+            "date": "2025-10-23T05:38:12Z"
+        },
+        {
+            "id": "e4cb8e60-8331-4b81-949a-e38e92a30b0f",
+            "recurringID": "",
+            "name": "-",
+            "tags": [],
+            "category": "Income",
+            "amount": -50000,
+            "currency": "",
+            "date": "2025-10-23T05:39:07Z"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "categories": [
+        "Food",
+        "Groceries",
+        "Travel",
+        "Rent",
+        "Utilities",
+        "Entertainment",
+        "Healthcare",
+        "Shopping",
+        "Miscellaneous",
+        "Income"
+    ],
+    "currency": "usd",
+    "startDate": 2,
+    "recurringExpenses": [
+        {
+            "id": "66bdf54c-52ac-4bc8-b8d1-deda3cc5df31",
+            "name": "shankavi",
+            "amount": 500,
+            "currency": "",
+            "tags": [],
+            "category": "Healthcare",
+            "startDate": "2025-09-12T14:00:32Z",
+            "interval": "weekly",
+            "occurrences": 4
+        }
+    ]
+}
