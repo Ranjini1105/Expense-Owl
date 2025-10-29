@@ -15,3 +15,15 @@ kubectl port-forward pod/<pod-name> 8080:8080 # Change Pod Name Here
 ```
 Dashboard available at http://expenseowl.localhost/
 ```
+
+
+
+NOTE:how to run my project
+In Vs code terminal
+cd ExpenseOwl
+ go build ./cmd/expenseowl
+.\expenseowl.exe
+In google 
+localhost:8080
+
+
